@@ -17,4 +17,5 @@ export default defineConfig({
     build: {
         outDir: "docs", // GitHub Pages allow only root and /docs.
     },
+    base: "https://kul2002il.github.io/todo/",
 })
